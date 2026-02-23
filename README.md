@@ -43,6 +43,7 @@ This project follows an end-to-end geospatial data science pipeline:
 2. Install dependencies  
    ```bash
    pip install -r requirements.txt
+3. 3. Open the `notebooks` folder and run the notebooks sequentially from `00` to `08`.
 
 ## 📊 Results
 
@@ -119,6 +120,7 @@ winter-sunlight-urban-analysis
 Roma Khalil Bhurgri
 Master’s Student in Data Science
 Berlin University of Applied Sciences and Technology (BHT)
+
 
 
 
