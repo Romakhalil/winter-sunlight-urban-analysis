@@ -37,6 +37,12 @@ This project follows an end-to-end geospatial data science pipeline:
 * GIS and Spatial Analysis
 
 ---
+## 🚀 Quick Start  
+
+1. Clone the repository  
+2. Install dependencies  
+   ```bash
+   pip install -r requirements.txt
 
 ## 📊 Results
 
@@ -67,6 +73,11 @@ Comparison of sunlight availability across different winter time scenarios.
 * Data-driven urban policy and governance
 
 ---
+## ⚠️ Limitations  
+
+- Building heights are estimated and may introduce uncertainty.  
+- Seasonal variability beyond winter was not explored.  
+- The model assumes static urban morphology.
 
 ## 📂 Data
 
@@ -108,5 +119,6 @@ winter-sunlight-urban-analysis
 Roma Khalil Bhurgri
 Master’s Student in Data Science
 Berlin University of Applied Sciences and Technology (BHT)
+
 
 
